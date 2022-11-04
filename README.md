@@ -82,3 +82,5 @@ git checkout -b main
 ```bash
 git push origin main 
 ```
+# set up link compiler scss
+- Files => preferences => settings => Extentions => Live sass compiler => settings: fomat=> edit in setting.json => edit savepath
