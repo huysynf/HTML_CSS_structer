@@ -71,15 +71,14 @@ git add <file>
 ```
 
 - commit 
-  ```bash
+```bash
 git commit -m "message" 
 ```
 - checkout 
-  ```bash
+```bash
 git checkout -b main 
 ```
-
 - push main
-  ```bash
+```bash
 git push origin main 
 ```
