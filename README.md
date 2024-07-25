@@ -29,7 +29,10 @@
       - _mixins.scss
       - _font.scss
       - _animation.scss
+      - _header.scss
+      - footer.scss
     - style.scss
+    - blog.scss
     - main.scss
     - <diffpage>.scss
   - images
